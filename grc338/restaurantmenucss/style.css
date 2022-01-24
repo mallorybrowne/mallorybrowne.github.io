@@ -1,0 +1,39 @@
+/* CSS DOCUMENT*/
+body{
+background-color: rgb(245, 243, 238);
+color:  rgb(18, 27, 73);
+}
+h1{
+font-family: serif;
+font-size:  3em;
+color: rgb(12, 80, 88);
+text-align: center;
+}
+h2{
+font-family: sans-serif;
+font-style: bold;
+color: rgb(20, 132, 145);
+font-size:  2em;
+text-align: center;
+}
+h3{
+font-family: sans-serif;
+color: rgb(28, 40, 94);
+background-color: rgb(255, 255, 255);
+padding: .25em 0 .25em .5em;
+}
+h4{
+font-family: sans-serif;
+font-style: bold;
+color: rgb(56, 125, 134);
+}
+p{
+font-family: serif;
+}
+.price{
+font-family: sans-serif;
+font-style: italic;
+}
+li{
+list-style: none;
+}
