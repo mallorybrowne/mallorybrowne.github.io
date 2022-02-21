@@ -3,5 +3,8 @@
 img {
     width: 100%; 
 }
-
+header {
+    padding-bottom: .25em;
+    background-color: #F4FAF9;
+}
 /*Please donâ€™t change this CSS stylesheet for the content hierarchy assginment */
