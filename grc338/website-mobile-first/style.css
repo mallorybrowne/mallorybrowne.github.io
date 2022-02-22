@@ -1,73 +1,87 @@
 /*CSS DOCUMENT*/
-
 img {
-    width: 100%; 
+width: 100%; 
+}
+body {
+background-color: rgb(248, 247, 246);
 }
 header {
-    padding-bottom: .25em;
-    background-color: #F4FAF9;
+background-color: #e8eaf1;
+width: 100%;
+padding: .5em 0em 1em 0em
 }
 div.container {
-    font-family: sans-serif;
-    margin: 1.5em;
-    letter-spacing: .1em;
+font-family: futura, sans-serif;
+letter-spacing: .1em;}
+h1 {
+color: #0B1438;
+font-family: futura, sans-serif;
+font-weight: 800;
+font-size: 2em;
+width: 8em;
 }
-
-nav ul{
-    padding: .5em .8em;
-    background-color: rgb(248,150,60);
-    margin: 1em 0;
+h2 {
+color: #0B1438;
+font-family: futura, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 1.25em;
 }
-
+h3 {
+color:#748ed6;
+font-family: futura, sans-serif;
+font-weight: 400;
+font-style: italic;
+font-size: medium;
+text-transform: uppercase;
+margin-bottom: 0em;
+margin-left: 0em;
+letter-spacing: .1em;
+} 
+h4 {
+font-family: futura, sans-serif;
+font-weight: 600;
+font-style: normal;
+font-size: small;
+text-transform: uppercase;
+margin-bottom: 0em;
+margin-left: 0em;
+letter-spacing: .1em;
+}
+p {
+font-family: futura, sans-serif;
+font-weight: 100;
+font-style: normal;
+font-size: smaller;
+margin-left: 0em;
+margin-bottom: em;
+}
+li {
+list-style: none;
+margin: .25em;
+display: inline;
+font-family: futura, sans-serif;
+margin: 0;
+}
+ul {
+margin-bottom: .5em;
+}
 nav ul li {
-    display: inline;
-    list-style-type: none;
-    font-weight: bold;
-    font-size: 1em;
-    text-transform: uppercase;
-    margin-right: 1em;
+display: inline;
+text-decoration: none;
+list-style-type: none;
+font-family: futura, sans-serif;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: .03em;
 }
-ul.sizes {
-    list-style-type: none;
-    margin: 1em 0;
-    padding: .5em 0;
-    font-weight: bold;
-    background-color: rgb(158,133,123);
-    color: rgb(255,255,255)
-    
+nav ul li a {
+color: #0B1438;
+text-decoration: none;
+padding: 1em 1em 1em 0em;
 }
-
-li.sizes {
-    padding: .5em;
-    font-size: 1.5em;
-}
-
-
-ul.menu {
-    list-style-type: none;
-    margin-bottom: 1.5em;
-}
-
-h2.menu {
-    text-transform: uppercase;
-    font-size: 2em;
-    background-color: rgb(248,150,60);
-    color: rgb(255,255,255);
-    margin: .3em 0;
-    padding: .2em;
-    color: rgb(255,255,255);
-    max-width: 10em;
-}
-
-h3.menu {
-    text-transform: uppercase;
-    font-size: 1.5em;
-    font-style: italic;
-    text-decoration: underline;
-}
-
-h4.menu {
-    font-size: 1.2em;
-    margin-top: 1em;
+nav ul li a:hover {
+color: #d1dcfa;
+text-decoration: none;
 }
 /*Please donâ€™t change this CSS stylesheet for the content hierarchy assginment */
