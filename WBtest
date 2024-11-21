@@ -1,0 +1,49 @@
+<div class="brands-container">
+    <a href="/tylo">
+        <div class="brand-card" style="background: url('https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/320w/image-manager/tylo.jpeg?t=1732105299') no-repeat center center / cover !important;">
+            <div class="brand-inner">
+                <img src="https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/200w/m/tylo_storefrontlogo_300_1732094356__36509.original.png">
+            </div>
+        </div>
+    </a>
+
+    <a href="/hotsprings">
+        <div class="brand-card" style="background: url('https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/320w/image-manager/hotspring.jpg?t=1732104416') no-repeat center center / cover !important;">
+            <div class="brand-inner">
+                <img src="https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/200w/v/watkinsbrands_hotspring_1732093673__93764.original.png">
+            </div>
+        </div>
+    </a>
+
+    <a href="/endless-pools">
+        <div class="brand-card" style="background: url('https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/320w/image-manager/endless-pool.png?t=1732104491') no-repeat center center / cover !important;">
+            <div class="brand-inner">
+                <img src="https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/200w/i/watkinsbrands_endlesspools_1732093751__77350.original.png">
+            </div>
+        </div>
+    </a>
+
+    <a href="/calderaspas">
+        <div class="brand-card" style="background: url('https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/320w/image-manager/caldera.png?t=1732104429') no-repeat center center / cover !important;">
+            <div class="brand-inner">
+                <img src="https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/200w/d/watkinsbrands_caldera_1732093802__02560.original.png">
+            </div>
+        </div>
+    </a>
+
+    <a href="/fantasy-spas">
+        <div class="brand-card" style="background: url('https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/320w/image-manager/fantasy-spas-entice.jpg?t=1732104421') no-repeat center center / cover !important;">
+            <div class="brand-inner">
+                <img src="https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/200w/n/watkinsbrands_fantasy_1732093859__11169.original.png">
+            </div>
+        </div>
+    </a>
+
+    <a href="/freeflow-spas">
+        <div class="brand-card" style="background: url('https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/320w/image-manager/freeflow-spas.jpg') no-repeat center center / cover !important;">
+            <div class="brand-inner">
+                <img src="https://cdn11.bigcommerce.com/s-anhlxp2qk3/images/stencil/200w/u/watkinsbrands_freeflow_1732093911__71591.original.png">
+            </div>
+        </div>
+    </a>
+</div>
